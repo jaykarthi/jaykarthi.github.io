@@ -5,18 +5,15 @@ repository: sproogen/resume-theme
 # Personal info
 name: Jayanth Karthikeyan
 title: Graduate Mechanical Engineer
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: jkkarthi@asu.edu
+website: https://github.com/jaykarthi
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
+github_username:  jaykarthi
+instagram_username: jayanth_karthikeyan
+linkedin_username: jayanthkarthikeyan
+
 youtube_username: globalmtb
 # googleplus_username: +jekyll
 
@@ -47,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
