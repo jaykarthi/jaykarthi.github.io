@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: AWARDS & RECOGNITION
-more_content: AWARDS & RECOGNITION | # this will include new lines to allow paragraphs
+AWARDS & RECOGNITION:| # this will include new lines to allow paragraphs
 
 
 # Footer
