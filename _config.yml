@@ -24,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
  Creative and Autonomous, Graduate Mechanical Engineering student with over three years of experience in programming, leadership, product design and development, with Six Sigma Green Belt Certification who is excited about designing products used by millions and making positive impact 
 looking for full time Mechanical/Product Design Engineering positions.
 
-  I am d most skilled in: <mark>Mechanical Product Design</mark> and <mark></mark>
+  Technical Skills: <mark>Solidworks</mark> and <mark>ANSYS Mechanical</mark> and <mark> Autodesk 360 </mark> and <mark> CATIA </mark>
 
 # Projects Section
 # projects_title: Projects
@@ -36,16 +36,20 @@ looking for full time Mechanical/Product Design Engineering positions.
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: AWARDS & RECOGNITION
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+1. Received best student worker for 3 consecutive semesters at OKED, ASU for outstanding work integrity and over 95%-time reporting.
+2. Honored with Dean’s list for Spring 15, Fall 17 and Spring 18 semester for perfect GPA.
+3. Recipient of ASU President letter of appreciation for making SpaceX’s Hyperloop competition finals.
+4. Exclusively selected as 1 of the 10 Student Ambassador in North America and was placed in the Autodesk pilot Peer to Peer program.
+5. Recruited to mentor 20+ freshmen engineering student part of the NSF and President Obama’s Scholar’s program.
+6. Presented and published poster in the Fulton Undergraduate Symposium – Fall 17 and received outstanding researcher award.
+7. Spearheaded Robotics Boot Camp Sponsored by Texas Instruments overseeing over 50+ freshmen scholars.
+8. Filled with Entrepreneurial mindsets and constantly looking to close in the gaps between needs and requirements. Actively engaged
+with ASU Startup Incubator.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
