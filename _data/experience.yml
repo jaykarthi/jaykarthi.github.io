@@ -2,9 +2,43 @@
   company: Arizona State University
   #link: boringcompany.com
   job_title: Graduate Teaching Assistant
-  dates: Jan 2019 - Present
+  dates: Jan 2019 - May 2019
   
   
   description: | # this will include new lines to allow paragraphs
     - Led the weekly Mechanical Structures and Materials Science laboratory sessions which includes conducting and showcasing various mechanical experiments of composite structures and materials as well as assisted in writing qualitative and quantitative AIAA formatted engineering report.
-    - Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    - Augmented the efficiency of lecture by teaching student Finite Element Analysis using ANSYS Structural to intrinsically understand the theoretical problem in a practical setting which enhanced exam averages from ~65% to 82%.
+    - Held weekly/exam review sessions and tutorial sessions, alongside grading over 180+ lab reports and homework assignments.
+    - Received positive evaluation from students and instructor which led to promotion from Undergraduate to Graduate Teaching Assistant.
+    
+    
+  - layout: left
+  company: Arizona State University
+  #link: boringcompany.com
+  job_title: Project Management Intern
+  dates: Ma 2019 - Present 
+  
+  
+  description: | # this will include new lines to allow paragraphs
+    - Supervised and managed 25+ student workers. 
+    - Did data processing for the Fulton Tutoring Center
+    - Helped the singnature E2 3 day bootcamp for freshmen students.
+    
+    - layout: left
+  company: AZloop – Arizona’s SpaceX Hyperloop Competition Team (Student Organization)
+  #link: boringcompany.com
+  job_title: Mechanical Systems Engineer, Lead
+  dates: Dec 2016 - Dec 2018
+  
+  
+  description: | # this will include new lines to allow paragraphs
+    - Led discussion for conceptualizing of new design from sketching, to creating 3D models, analyzing manufacturing and assembly feasibility of electric
+motor driven propulsion system.
+    - Conducted CAD modeling, FEA-simulation, strength analysis, DFMEA for the structural components of the pod brake modules using ANSYS and
+validated with thermal/vacuum chamber results.
+- Developed processing tools to streamline collection of Mechanical test data using feature extraction technique and MATLAB deep learning toolbox.
+- Co-Developed the pod/system architecture program which controls electromechanical devices using real time data from sensors (90+) onboard as
+well as maintains/monitors the thermal state of the battery modules.
+- Played integral part in creating and implementing focus groups within mechanical and business team to enhance efficiency in communication.
+Key achievement: Led investment round seeking $100,000 and ended up with little over 1million dollars in funding for pod development.
+    - Helped the singnature E2 3 day bootcamp for freshmen students.
