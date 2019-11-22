@@ -1,5 +1,5 @@
 # Site
-# repository: sproogen/resume-theme
+repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -53,5 +53,5 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag
