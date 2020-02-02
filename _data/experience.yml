@@ -1,4 +1,4 @@
-- layout: left
+-layout: left
   company: Arizona State University
   #link: I don't have a fucking link BITCH >.<
   job_title: Graduate Teaching Assistant
@@ -13,7 +13,7 @@
     - Received positive evaluation from students and instructor which led to promotion from Undergraduate to Graduate Teaching Assistant.
     
   
- - layout: left
+ -layout: left
   company: AZLoop - SpaceX Hyperloop Team
   #link: I don't have a fucking link BITCH >.<
   job_title: Mechanical Systems Engineering
