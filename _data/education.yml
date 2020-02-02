@@ -1,15 +1,15 @@
 - layout: left
   name: Arizona State University 
-  dates: August 2014 - December 2018
-  qualification: BSE Aerospace Engineering 
-  
-  description: | # this will include new lines to allow paragraphs
-    Thermodynamics, Six Sigma Methodology, Microelectronics Packaging (MEMS), System Controls and Dynamics, Partial Differentials, Vibration Analysis, CAD modelling, Computational Fluid Dynamics, Analog Electrical Systems Modelling,Exp. Statistics, FEA, Entrepreneurship and Value Creation. 
-
-- layout: left
-  name: Arizona State University 
   dates: January 2019 - December 2019
   qualification: MS Mechanical Engineering 
   
   description: | # this will include new lines to allow paragraphs
-    Thermodynamics, Six Sigma Methodology, Microelectronics Packaging (MEMS), System Controls and Dynamics, Partial Differentials, Vibration Analysis, CAD modelling, Computational Fluid Dynamics, Analog Electrical Systems Modelling,Exp. Statistics, FEA, Entrepreneurship and Value Creation. 
+    Modeling and Control of Robots, Coordination of Multi System Robots, Six Sigma Methodology, Microelectronics Packaging (MEMS), Partial Differentials, Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), Linear Algebra, Rocket Propulsion, Design of Aerospace Structures, Entrepreneurship and Value Creation. 
+
+- layout: left
+  name: Arizona State University 
+  dates: August 2014 - December 2018
+  qualification: BSE Aerospace Engineering 
+  
+  description: | # this will include new lines to allow paragraphs
+    Thermodynamics,System Controls and Dynamics, Vibration Analysis, CAD modelling, Analog Electrical Systems Modelling, Exp. Statistics, Aircraft Propulsion, Aerodynamics, High Speed Aerodynamics, Model based Aircraft Design.   
