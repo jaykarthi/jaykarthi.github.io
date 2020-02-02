@@ -33,3 +33,20 @@
    - Conducted CAD modeling, FEA-simulation, strength analysis, and DFMEA for the structural components of the pod brake modules using ANSYS, and COMSOL. 
    - Developed processing tools to streamline collection of Mechanical test data using feature extraction technique and MATLAB deep learning toolbox.
    - Co-Developed the pod/system architecture program which controls electromechanical devices using real time data from sensors (90+) onboard as well as maintains/monitors the thermal state of the battery modules.
+- layout: left
+  company: NLD - NASA Team
+  #link: I don't have a fucking link BITCH >.<
+  job_title: Technical Director 
+  dates: Jun 2017 - Jun 2018
+  
+  description: | # this will include new lines to allow paragraphs
+   - Led both internal and external collaboration for research and design of origami structure radially expanding solar panel with high efficiency triple junction LILT research cells with a peak efficiency over 48% which exceeds the industry average by over 25%.
+   - Performed the feasibility study for Design for Manufacturability and Assembly (DFM & DFA). 
+   - Organized Gantt charts for production timeline and outsourcing components.
+   - Managed and directed team of 10 by organizing weekly meeting, delegating task among the members. Presented in the AIAA Propulsion and Energy Conference – 2018
+   
+   
+   
+   
+   
+   
