@@ -3,5 +3,10 @@
 
   description: | # this will include new lines to allow paragraphs
     - Worked with Team of Intel Scientist and Engineers in enabling implementation of organic flexible devices packaging. 
-    - Conducted ANSYS simulation varying die-to-substrate geometry to predict thermal stresses associated with reliability and thermo cyclic loads
-    - Coordinated and studied the feasibility of manufacturing Nanopaper based flexible substrate and published IEEE conference paper on findings
+    - Conducted ANSYS simulation varying die-to-substrate geometry to predict thermal stresses associated with reliability and thermo cyclic loads.
+    - Coordinated and studied the feasibility of manufacturing Nanopaper based flexible substrate and published IEEE conference paper on findings.
+- layout: top-middle
+  name: Interactive Robotics Framework Using Matlab 
+
+  description: | # this will include new lines to allow paragraphs
+    - Developed an interactive and intuitive Robotics Framework using Matlab to generate Euler angles, forward kinematics, workspace, inverse kinematics, and inverse differential kinematics based on user defined DH parameters or link numbers  
