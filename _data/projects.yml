@@ -1,13 +1,7 @@
 - layout: top-middle
-  name: AZloop – Arizona’s SpaceX Hyperloop Competition Team | Mechanical System Engineer, Lead 
-  #link: github.com/sproogen
-  #github: sproogen/resume-theme
- # quote: >
-   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Led discussion for conceptualizing of new design from sketching, to creating 3D models, analyzing manufacturing and assembly feasibility of electric motor driven propulsion system.
-- layout: top-middle
   name: Investigating the Thermo-Mechanical Stresses in Flexible Electronics due to CTE Mismatch (INTEL SPONSORED)
 
   description: | # this will include new lines to allow paragraphs
     Worked with Team of Intel Scientist and Engineers in enabling implementation of organic flexible devices packaging. 
+    Conducted ANSYS simulation varying die-to-substrate geometry to predict thermal stresses associated with reliability and thermo cyclic loads
+    Coordinated and studied the feasibility of manufacturing Nanopaper based flexible substrate and published IEEE conference paper on findings
