@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Jayanth Karthikeyan
-title: Mechanical Engineer seeking full time 
+title: Graduate Mechanical Engineer who loves to convert complex problems into engaging solutions looking for full time opportunities.
 email: ijk@asu.edu
 website: https://github.com/jaykarthi
 
@@ -21,7 +21,7 @@ linkedin_username: jayanthkarthikeyan
 # about_title: About Me
 about_profile_image: images/jay3.jpg
 about_content: | # this will include new lines to allow paragraphs
- Creative and Autonomous, Graduate Mechanical Engineering student with over three years of experience in programming, leadership, product design and development, with Six Sigma Green Belt Certification who is excited about designing products used by millions and making positive impact looking for full time Mechanical/Product Design Engineering positions.
+ Creative and Autonomous, Graduate Mechanical Engineer with over three years of experience in programming, leadership, product design and development, with Six Sigma Green Belt Certification who is excited about designing products used by millions and making positive impact looking for full time Mechanical/Product Design Engineering positions.
 
   Technical Skills: <mark> Mechanical Product Design </mark> and <mark> Robotics </mark> and <mark> Computer Vision </mark> and <mark> Path Planning </mark>
 
