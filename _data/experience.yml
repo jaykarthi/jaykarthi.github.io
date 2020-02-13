@@ -1,4 +1,12 @@
 - layout: left
+  company: Privoro 
+  link: https://privoro.com/
+  job_title: Mechanical Design Engineer
+  dates: Feb 2020 - Present
+  
+  description: | # this will include new lines to allow paragraphs
+   - Stealth work in developing Zero Trust device protection cases 
+- layout: left
   company: Arizona State University
   #link: I don't have a fucking link BITCH >.<
   job_title: Project Management Intern
