@@ -12,8 +12,7 @@
     - Developed an interactive and intuitive Robotics Framework using Matlab to generate Euler angles, forward kinematics, workspace, inverse kinematics, and inverse differential kinematics based on user defined DH parameters or link numbers.
     
 - layout: top-middle
-  name: Investigating the Thermo-Mechanical Stresses in Flexible Electronics due to CTE Mismatch (INTEL SPONSORED)
+  name: Catatpult Defense System (Six Sigma)
 
   description: | # this will include new lines to allow paragraphs
-  name: Catatpult Defense System (Six Sigma)
     - Designed and Built a catapult defense system using Full factorial design analysis in JMP and validating results with Pareto and Normal Probability plots.
