@@ -10,8 +10,4 @@
 
   description: | # this will include new lines to allow paragraphs
     - Developed an interactive and intuitive Robotics Framework using Matlab to generate Euler angles, forward kinematics, workspace, inverse kinematics, and inverse differential kinematics based on user defined DH parameters or link numbers.   
-- layout: top-middle
-  name: Catatpult Defense System using JMP (Six Sigma)
 
-  description: | # this will include new lines to allow paragraphs
-    - Designed and Built a catapult defense system using Full factorial design analysis in JMP and validating results with Pareto and Normal Probability plots.
